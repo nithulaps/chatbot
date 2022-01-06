@@ -1,0 +1,63 @@
+.chat_box
+{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    width: 350px;
+    height: 600px;
+    border-radius: 20px;
+    box-shadow: 0 0 10px gray;    
+}
+
+.chat-title
+{
+    height: 10%;
+}
+
+.chat-body
+{
+    height: 80%;
+}
+
+.chat-status
+{
+    height: 10%;
+}
+
+.chat-status img
+{
+   height:1.5rem;
+}
+
+
+
+.chat-ico
+{
+    height: 2rem;
+    
+}
+
+.chat-tools img
+{
+    height: 1rem;
+}
+
+.chat-m
+{
+    width: 100px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: cadetblue;
+    margin: 20px;
+}
+
+.user-m
+{
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: rgb(130, 240, 243);
+    margin: 20px;
+}
